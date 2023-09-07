@@ -10,7 +10,6 @@ from utils import tile2latlon, latlon2tile
 
 headers = {
         "Authorization": ""
-#     "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI5MWU2OTlhYi1hZWI1LTQwYjAtYjQzZi1mN2NhZTc3YWRjOGMiLCJpZCI6MjU5LCJhc3NldHMiOnsiMSI6eyJ0eXBlIjoiVEVSUkFJTiIsImV4dGVuc2lvbnMiOlt0cnVlLHRydWUsdHJ1ZV0sInB1bGxBcGFydFRlcnJhaW4iOmZhbHNlfX0sInNyYyI6Ijc4NmQwNDM5LTdkYmMtNDNlZS1iOWZjLThmYzljZTA3M2EyZiIsImlhdCI6MTY5NDA0NDg2NiwiZXhwIjoxNjk0MDQ4NDY2fQ.QSwXx0xrG7XL1S_suT93vwTwioZO5dF1Ja8nIyCznbU"
 }
 
 
